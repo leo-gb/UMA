@@ -1,0 +1,14 @@
+-i https://pypi.antfin-inc.com/simple/ 
+opencv-python==4.1.2.30
+Cython==0.29.14
+numpy
+tqdm
+Pillow==6.2.0
+lxml
+matplotlib
+oss2
+retrying
+pandas
+faiss-cpu
+psutil
+Augmentor

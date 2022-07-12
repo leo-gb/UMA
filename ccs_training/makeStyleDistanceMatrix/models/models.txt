@@ -1,0 +1,4 @@
+download models from https://github.com/alsdml/StyleMix/tree/main/models
+
+- decoder.pth.tar
+- vgg_normalised.pth
